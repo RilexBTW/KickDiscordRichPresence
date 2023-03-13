@@ -8,11 +8,7 @@ Install pypresence dependency:
    `` python kickrichpresence.py`` 
    
    Stop the script by closing the terminal window, or CTRL + C :)
-   
-   
-[========]
-
-   
+<br>
 ## How to create your discord app
 [Discord Developer Portal](https://discord.com/developers/applications "Discord Developer Portal")
 1). Go to the Discord Dev Portal and create a new application. 
