@@ -15,7 +15,7 @@ RPC.connect()
 
 RPC.update(
     state="Streaming on kick.com/"+channel_name,
-    large_image="kick_logo",
+    large_image="logo",
     buttons=[{"label": "Watch on Kick", "url": "https://www.kick.com/"+channel_name}]
     )
 
