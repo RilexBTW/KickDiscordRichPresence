@@ -5,7 +5,7 @@ Install pypresence dependency:
    `` pip install pypresence ``
    
    run the script:
-   `` python kickrichpresence.py`` 
+   `` python kickrichpresence.py or double click run.bat`` 
    
    Stop the script by closing the terminal window, or CTRL + C :)
 <br>
